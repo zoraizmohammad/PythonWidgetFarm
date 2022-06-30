@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 #Created By: Mohammad Zoraiz
 #Seconds Counter
 def secondstotal(days, hours, minutes, seconds):
@@ -15,10 +9,3 @@ minutes = int(input('Enter the number of minutes: '))
 seconds = int(input('Enter the number of seconds: '))
 
 print ('The total number of seconds in the given time is: %ds' %secondstotal(days, hours, minutes, seconds))
-
-
-# In[ ]:
-
-
-
-
